@@ -1,0 +1,96 @@
+JDFile v11 {
+  Global {
+  }
+  JDImage {
+    summit:37,122,1486,326
+    origin:482,62
+    lineWidth:0
+    name:"Image"
+    file_name:"/home/tango-cs/Desktop/Ustawienia/zad_1/schemat-peem-xas.png"
+  }
+  JDRectangle {
+    summit:279,273,341,221
+    origin:274,228
+    background:153,255,153
+    fillStyle:2
+    name:"Rectangle"
+  }
+  JDRectangle {
+    summit:41,225,165,262
+    origin:96,249
+    background:153,255,153
+    fillStyle:2
+    shadowThickness:1
+    name:"Rectangle"
+  }
+  JDRectangle {
+    summit:436,228,532,261
+    origin:502,261
+    background:153,255,153
+    fillStyle:2
+    name:"Rectangle"
+  }
+  JDRectangle {
+    summit:546,211,617,282
+    origin:590,291
+    background:153,255,153
+    fillStyle:2
+    name:"Rectangle"
+  }
+  JDRectangle {
+    summit:424,214,353,285
+    origin:409,286
+    background:153,255,153
+    fillStyle:2
+    name:"Rectangle"
+  }
+  JDRectangle {
+    summit:768,197,641,264
+    origin:826,191
+    background:153,255,153
+    fillStyle:2
+    name:"Rectangle"
+  }
+  JDRectangle {
+    summit:777,183,850,252
+    origin:840,232
+    background:153,255,153
+    fillStyle:2
+    name:"Rectangle"
+  }
+  JDRectangle {
+    summit:869,196,962,229
+    origin:909,231
+    background:153,255,153
+    fillStyle:2
+    name:"Rectangle"
+  }
+  JDRectangle {
+    summit:1312,198,1405,231
+    origin:1342,233
+    background:153,255,153
+    fillStyle:2
+    name:"Rectangle"
+  }
+  JDRectangle {
+    summit:1132,186,1222,247
+    origin:1123,221
+    background:153,255,153
+    fillStyle:2
+    name:"Rectangle"
+  }
+  JDRectangle {
+    summit:1246,158,1298,231
+    origin:1274,197
+    background:153,255,153
+    fillStyle:2
+    name:"Rectangle"
+  }
+  JDRectangle {
+    summit:1414,203,1479,277
+    origin:1413,238
+    background:153,255,153
+    fillStyle:2
+    name:"Rectangle"
+  }
+}

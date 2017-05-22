@@ -1,0 +1,46 @@
+<taurusgui_config>
+  <GUI_NAME>Patryk_Fraczek_GUI</GUI_NAME>
+  <ORGANIZATION>TAURUS</ORGANIZATION>
+  <CUSTOM_LOGO>LOGO.jpg</CUSTOM_LOGO>
+  <SYNOPTIC>
+    <synoptic str="Synaptic_1.jdw"/>
+    <synoptic str="Synaptic_2.jdw"/>
+  </SYNOPTIC>
+  <PanelDescriptions>
+    <PanelDescription>
+  <name>My_Form</name>
+  <classname>TaurusForm</classname>
+  <modulename/>
+  <widgetname/>
+  <floating>True</floating>
+  <sharedDataWrite/>
+  <sharedDataRead/>
+  <model>tango://tango9-vm:10000/sim/motor/3/position, tango://tango9-vm:10000/sim/motor/2/position, tango://tango9-vm:10000/sim/motor/1/position, eval://{tango://tango9-vm:10000/sim/motor/3/position}+{tango://tango9-vm:10000/sim/motor/2/position}+{tango://tango9-vm:10000/sim/motor/1/position}</model>
+</PanelDescription>
+    <PanelDescription>
+  <name>My_Trend</name>
+  <classname>TaurusTrend</classname>
+  <modulename/>
+  <widgetname/>
+  <floating>True</floating>
+  <sharedDataWrite/>
+  <sharedDataRead/>
+  <model>tango://tango9-vm:10000/sim/motor/3/position, tango://tango9-vm:10000/sim/motor/1/position, tango://tango9-vm:10000/sim/motor/2/position, eval://{tango://tango9-vm:10000/sim/motor/1/position}+{tango://tango9-vm:10000/sim/motor/2/position}+{tango://tango9-vm:10000/sim/motor/3/position}</model>
+</PanelDescription>
+  </PanelDescriptions>
+  <ExternalApps>
+    <ExternalApp>
+      <command>jive</command>
+      <params/>
+      <text>jive</text>
+      <icon>categories:xfce-system.svg</icon>
+    </ExternalApp>
+    <ExternalApp>
+      <command>astor</command>
+      <params/>
+      <text>astor</text>
+      <icon>actions:gtk-bold.svg</icon>
+    </ExternalApp>
+  </ExternalApps>
+  <MONITOR></MONITOR>
+</taurusgui_config>

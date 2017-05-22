@@ -1,0 +1,60 @@
+JDFile v11 {
+  Global {
+  }
+  JDImage {
+    summit:7,147,1389,372
+    origin:524,112
+    lineWidth:0
+    name:"Image"
+    file_name:"/home/tango-cs/Desktop/Ustawienia/zad_1/schemat-uarpes.png"
+  }
+  JDRectangle {
+    summit:162,255,260,335
+    origin:211,291
+    background:153,255,153
+    fillStyle:2
+    name:"Rectangle"
+  }
+  JDRectangle {
+    summit:288,281,425,308
+    origin:490,392
+    background:153,255,153
+    fillStyle:2
+    name:"Rectangle"
+  }
+  JDRectangle {
+    summit:441,256,539,336
+    origin:490,292
+    background:153,255,153
+    fillStyle:2
+    name:"Rectangle"
+  }
+  JDRectangle {
+    summit:1099,251,1240,278
+    origin:1148,234
+    background:153,255,153
+    fillStyle:2
+    name:"Rectangle"
+  }
+  JDRectangle {
+    summit:849,251,990,278
+    origin:898,234
+    background:153,255,153
+    fillStyle:2
+    name:"Rectangle"
+  }
+  JDRectangle {
+    summit:1293,210,1364,296
+    origin:1028,457
+    background:153,255,153
+    fillStyle:2
+    name:"Rectangle"
+  }
+  JDRectangle {
+    summit:589,178,778,312
+    origin:647,470
+    background:153,255,153
+    fillStyle:2
+    name:"Rectangle"
+  }
+}
